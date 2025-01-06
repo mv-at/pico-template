@@ -1,6 +1,6 @@
 [submodule ".pico-sdk"]
 	path = .pico-sdk
-	url = https://gitlab.tugraz.at/microcontroller/pico-sdk.git
+	url = https://github.com/raspberrypi/pico-sdk.git
 [submodule ".openocd"]
 	path = .openocd
-	url = https://gitlab.tugraz.at/microcontroller/openocd.git
+	url = https://github.com/mv-at/openocd-binaries.git
